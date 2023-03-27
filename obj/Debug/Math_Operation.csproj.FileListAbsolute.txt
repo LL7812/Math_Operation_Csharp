@@ -1,0 +1,8 @@
+G:\archivo_C#\Math_Operation\bin\Debug\Math_Operation.exe.config
+G:\archivo_C#\Math_Operation\bin\Debug\Math_Operation.exe
+G:\archivo_C#\Math_Operation\bin\Debug\Math_Operation.pdb
+G:\archivo_C#\Math_Operation\obj\Debug\Math_Operation.csproj.AssemblyReference.cache
+G:\archivo_C#\Math_Operation\obj\Debug\Math_Operation.csproj.SuggestedBindingRedirects.cache
+G:\archivo_C#\Math_Operation\obj\Debug\Math_Operation.csproj.CoreCompileInputs.cache
+G:\archivo_C#\Math_Operation\obj\Debug\Math_Operation.exe
+G:\archivo_C#\Math_Operation\obj\Debug\Math_Operation.pdb
